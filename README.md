@@ -1,6 +1,6 @@
-# ⚡ Electricity Consumption Dashboard: UAE (2012–2018)
+# ⚡ Electricity Consumption Dashboard: Abu Dhabi (2012–2018)
 
-An interactive data science project analyzing electricity consumption by **area** and **sector** in UAE between 2012 and 2018.
+An interactive data science project analyzing electricity consumption by **area** and **sector** in Abu Dhabi between 2012 and 2018 in addtion to some comparisons with other emirates.
 
 ---
 
