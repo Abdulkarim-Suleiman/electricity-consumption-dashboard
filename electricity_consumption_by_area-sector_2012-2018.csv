@@ -1,167 +1,167 @@
 year,Area,Sector,UNIT,Consumption
-2012,Abu Dhabi,Resdencial,GWH,12265.846865796586
-2012,Abu Dhabi,Commercial,GWH,10786.790651324241
-2012,Abu Dhabi,Industrial,GWH,1528.181407055331
-2012,Abu Dhabi,Governmental,GWH,5188.787040975792
-2012,Abu Dhabi,Other,GWH,7306.212825844654
-2012,Abu Dhabi,Total,GWH,37075.8187909966
-2012,Dubai,Resdencial,GWH,9815.0
-2012,Dubai,Commercial,GWH,16623.0
-2012,Dubai,Industrial,GWH,2564.0
-2012,Dubai,Governmental,GWH,2345.6011339535285
-2012,Dubai,Other,GWH,152.39886604647154
-2012,Dubai,Total,GWH,31500.0
-2012,Northen Emirates,Resdencial,GWH,4000.0
-2012,Northen Emirates,Commercial,GWH,1700.0
-2012,Northen Emirates,Industrial,GWH,2300.0
-2012,Northen Emirates,Governmental,GWH,1100.0
-2012,Northen Emirates,Other,GWH,900.0
-2012,Northen Emirates,Total,GWH,10000.0
-2012,Sharjah,Resdencial,GWH,4416.0
+2012,Abu Dhabi,Residential,GWH,12265.84687
+2012,Abu Dhabi,Commercial,GWH,10786.79065
+2012,Abu Dhabi,Industrial,GWH,1528.181407
+2012,Abu Dhabi,Governmental,GWH,5188.787041
+2012,Abu Dhabi,Other,GWH,7306.212826
+2012,Abu Dhabi,Total,GWH,37075.81879
+2012,Dubai,Residential,GWH,9815
+2012,Dubai,Commercial,GWH,16623
+2012,Dubai,Industrial,GWH,2564
+2012,Dubai,Governmental,GWH,2345.601134
+2012,Dubai,Other,GWH,152.398866
+2012,Dubai,Total,GWH,31500
+2012,Northen Emirates,Residential,GWH,4000
+2012,Northen Emirates,Commercial,GWH,1700
+2012,Northen Emirates,Industrial,GWH,2300
+2012,Northen Emirates,Governmental,GWH,1100
+2012,Northen Emirates,Other,GWH,900
+2012,Northen Emirates,Total,GWH,10000
+2012,Sharjah,Residential,GWH,4416
 2012,Sharjah,Commercial,GWH,2761.5
 2012,Sharjah,Industrial,GWH,920.5
-2012,Sharjah,Governmental,GWH,1113.0
-2012,Sharjah,Other,GWH,3.0
-2012,Sharjah,Total,GWH,9214.0
-2013,Abu Dhabi,Resdencial,GWH,12504.07108151932
-2013,Abu Dhabi,Commercial,GWH,11417.544964695768
-2013,Abu Dhabi,Industrial,GWH,1891.898757008241
-2013,Abu Dhabi,Governmental,GWH,5738.063156725542
-2013,Abu Dhabi,Other,GWH,7971.742951100883
-2013,Abu Dhabi,Total,GWH,39523.320911049756
-2013,Dubai,Resdencial,GWH,10077.0
-2013,Dubai,Commercial,GWH,17326.0
-2013,Dubai,Industrial,GWH,2596.0
-2013,Dubai,Governmental,GWH,2504.2907222794474
-2013,Dubai,Other,GWH,162.70927772055256
-2013,Dubai,Total,GWH,32666.0
-2013,Northen Emirates,Resdencial,GWH,4015.0
-2013,Northen Emirates,Commercial,GWH,1753.0
-2013,Northen Emirates,Industrial,GWH,2212.0
+2012,Sharjah,Governmental,GWH,1113
+2012,Sharjah,Other,GWH,3
+2012,Sharjah,Total,GWH,9214
+2013,Abu Dhabi,Residential,GWH,12504.07108
+2013,Abu Dhabi,Commercial,GWH,11417.54496
+2013,Abu Dhabi,Industrial,GWH,1891.898757
+2013,Abu Dhabi,Governmental,GWH,5738.063157
+2013,Abu Dhabi,Other,GWH,7971.742951
+2013,Abu Dhabi,Total,GWH,39523.32091
+2013,Dubai,Residential,GWH,10077
+2013,Dubai,Commercial,GWH,17326
+2013,Dubai,Industrial,GWH,2596
+2013,Dubai,Governmental,GWH,2504.290722
+2013,Dubai,Other,GWH,162.7092777
+2013,Dubai,Total,GWH,32666
+2013,Northen Emirates,Residential,GWH,4015
+2013,Northen Emirates,Commercial,GWH,1753
+2013,Northen Emirates,Industrial,GWH,2212
 2013,Northen Emirates,Governmental,GWH,1096.7
 2013,Northen Emirates,Other,GWH,893.3
-2013,Northen Emirates,Total,GWH,9970.0
-2013,Sharjah,Resdencial,GWH,4469.0
+2013,Northen Emirates,Total,GWH,9970
+2013,Sharjah,Residential,GWH,4469
 2013,Sharjah,Commercial,GWH,2982.75
 2013,Sharjah,Industrial,GWH,994.25
-2013,Sharjah,Governmental,GWH,1386.0
-2013,Sharjah,Other,GWH,4.0
-2013,Sharjah,Total,GWH,9836.0
-2014,Abu Dhabi,Resdencial,GWH,13351.58208340751
-2014,Abu Dhabi,Commercial,GWH,12638.439730898072
-2014,Abu Dhabi,Industrial,GWH,2134.51923525062
-2014,Abu Dhabi,Governmental,GWH,5515.600405041349
-2014,Abu Dhabi,Other,GWH,8399.135155077307
-2014,Abu Dhabi,Total,GWH,42039.27660967486
-2014,Dubai,Resdencial,GWH,10835.0
-2014,Dubai,Commercial,GWH,18397.0
-2014,Dubai,Industrial,GWH,2684.0
-2014,Dubai,Governmental,GWH,2699.600984834425
-2014,Dubai,Other,GWH,175.39901516557484
-2014,Dubai,Total,GWH,34791.0
-2014,Northen Emirates,Resdencial,GWH,4135.0
-2014,Northen Emirates,Commercial,GWH,1805.0
-2014,Northen Emirates,Industrial,GWH,2279.0
+2013,Sharjah,Governmental,GWH,1386
+2013,Sharjah,Other,GWH,4
+2013,Sharjah,Total,GWH,9836
+2014,Abu Dhabi,Residential,GWH,13351.58208
+2014,Abu Dhabi,Commercial,GWH,12638.43973
+2014,Abu Dhabi,Industrial,GWH,2134.519235
+2014,Abu Dhabi,Governmental,GWH,5515.600405
+2014,Abu Dhabi,Other,GWH,8399.135155
+2014,Abu Dhabi,Total,GWH,42039.27661
+2014,Dubai,Residential,GWH,10835
+2014,Dubai,Commercial,GWH,18397
+2014,Dubai,Industrial,GWH,2684
+2014,Dubai,Governmental,GWH,2699.600985
+2014,Dubai,Other,GWH,175.3990152
+2014,Dubai,Total,GWH,34791
+2014,Northen Emirates,Residential,GWH,4135
+2014,Northen Emirates,Commercial,GWH,1805
+2014,Northen Emirates,Industrial,GWH,2279
 2014,Northen Emirates,Governmental,GWH,1129.59
-2014,Northen Emirates,Other,GWH,920.4100000000001
-2014,Northen Emirates,Total,GWH,10269.0
-2014,Sharjah,Resdencial,GWH,4313.1
+2014,Northen Emirates,Other,GWH,920.41
+2014,Northen Emirates,Total,GWH,10269
+2014,Sharjah,Residential,GWH,4313.1
 2014,Sharjah,Commercial,GWH,3698.99
 2014,Sharjah,Industrial,GWH,949.44
 2014,Sharjah,Governmental,GWH,1217.6
 2014,Sharjah,Other,GWH,16.29
 2014,Sharjah,Total,GWH,10195.42
-2015,Abu Dhabi,Resdencial,GWH,13679.3237291776
-2015,Abu Dhabi,Commercial,GWH,17349.049699961946
-2015,Abu Dhabi,Industrial,GWH,2644.4682191080205
-2015,Abu Dhabi,Governmental,GWH,3224.2342347545373
-2015,Abu Dhabi,Other,GWH,11982.072869399752
-2015,Abu Dhabi,Total,GWH,48879.14875240186
-2015,Dubai,Resdencial,GWH,11724.0
-2015,Dubai,Commercial,GWH,19263.0
-2015,Dubai,Industrial,GWH,2776.0
-2015,Dubai,Governmental,GWH,3227.314290391624
-2015,Dubai,Other,GWH,209.68570960837587
-2015,Dubai,Total,GWH,37200.0
-2015,Northen Emirates,Resdencial,GWH,4828.400000000001
-2015,Northen Emirates,Commercial,GWH,2172.7799999999997
+2015,Abu Dhabi,Residential,GWH,13679.32373
+2015,Abu Dhabi,Commercial,GWH,17349.0497
+2015,Abu Dhabi,Industrial,GWH,2644.468219
+2015,Abu Dhabi,Governmental,GWH,3224.234235
+2015,Abu Dhabi,Other,GWH,11982.07287
+2015,Abu Dhabi,Total,GWH,48879.14875
+2015,Dubai,Residential,GWH,11724
+2015,Dubai,Commercial,GWH,19263
+2015,Dubai,Industrial,GWH,2776
+2015,Dubai,Governmental,GWH,3227.31429
+2015,Dubai,Other,GWH,209.6857096
+2015,Dubai,Total,GWH,37200
+2015,Northen Emirates,Residential,GWH,4828.4
+2015,Northen Emirates,Commercial,GWH,2172.78
 2015,Northen Emirates,Industrial,GWH,2655.62
 2015,Northen Emirates,Governmental,GWH,1327.81
-2015,Northen Emirates,Other,GWH,1086.3900000000003
-2015,Northen Emirates,Total,GWH,12071.0
-2015,Sharjah,Resdencial,GWH,4421.39
+2015,Northen Emirates,Other,GWH,1086.39
+2015,Northen Emirates,Total,GWH,12071
+2015,Sharjah,Residential,GWH,4421.39
 2015,Sharjah,Commercial,GWH,3604.22
 2015,Sharjah,Industrial,GWH,1601.2
 2015,Sharjah,Governmental,GWH,1158.11
 2015,Sharjah,Other,GWH,12.13
 2015,Sharjah,Total,GWH,10796.98
-2016,Abu Dhabi,Resdencial,GWH,13329.183351492984
-2016,Abu Dhabi,Commercial,GWH,17589.41088484579
-2016,Abu Dhabi,Industrial,GWH,2699.6840585288573
-2016,Abu Dhabi,Governmental,GWH,3144.1865263748937
-2016,Abu Dhabi,Other,GWH,12392.881131594708
-2016,Abu Dhabi,Total,GWH,49155.34595283723
-2016,Dubai,Resdencial,GWH,11922.0
-2016,Dubai,Commercial,GWH,19862.0
-2016,Dubai,Industrial,GWH,2861.0
-2016,Dubai,Governmental,GWH,3341.8712713132936
-2016,Dubai,Other,GWH,217.12872868670638
-2016,Dubai,Total,GWH,38204.0
-2016,Northen Emirates,Resdencial,GWH,5104.0
-2016,Northen Emirates,Commercial,GWH,2296.7999999999997
+2016,Abu Dhabi,Residential,GWH,13329.18335
+2016,Abu Dhabi,Commercial,GWH,17589.41088
+2016,Abu Dhabi,Industrial,GWH,2699.684059
+2016,Abu Dhabi,Governmental,GWH,3144.186526
+2016,Abu Dhabi,Other,GWH,12392.88113
+2016,Abu Dhabi,Total,GWH,49155.34595
+2016,Dubai,Residential,GWH,11922
+2016,Dubai,Commercial,GWH,19862
+2016,Dubai,Industrial,GWH,2861
+2016,Dubai,Governmental,GWH,3341.871271
+2016,Dubai,Other,GWH,217.1287287
+2016,Dubai,Total,GWH,38204
+2016,Northen Emirates,Residential,GWH,5104
+2016,Northen Emirates,Commercial,GWH,2296.8
 2016,Northen Emirates,Industrial,GWH,2807.2
 2016,Northen Emirates,Governmental,GWH,1403.6
-2016,Northen Emirates,Other,GWH,1148.4000000000015
-2016,Northen Emirates,Total,GWH,12760.0
-2016,Sharjah,Resdencial,GWH,4385.12
+2016,Northen Emirates,Other,GWH,1148.4
+2016,Northen Emirates,Total,GWH,12760
+2016,Sharjah,Residential,GWH,4385.12
 2016,Sharjah,Commercial,GWH,3713.74
 2016,Sharjah,Industrial,GWH,1266.16
 2016,Sharjah,Governmental,GWH,1142.92
 2016,Sharjah,Other,GWH,17.95
 2016,Sharjah,Total,GWH,10525.9
-2017,Abu Dhabi,Resdencial,GWH,12998.100542344528
-2017,Abu Dhabi,Commercial,GWH,18400.724912678987
-2017,Abu Dhabi,Industrial,GWH,2903.18945358203
-2017,Abu Dhabi,Governmental,GWH,3360.5709740796415
-2017,Abu Dhabi,Other,GWH,12442.382836817851
-2017,Abu Dhabi,Total,GWH,50104.96871950304
-2017,Dubai,Resdencial,GWH,12795.0
-2017,Dubai,Commercial,GWH,20818.0
-2017,Dubai,Industrial,GWH,2914.0
-2017,Dubai,Governmental,GWH,3404.783711655522
-2017,Dubai,Other,GWH,221.21628834447802
-2017,Dubai,Total,GWH,40153.0
-2017,Northen Emirates,Resdencial,GWH,5311.200000000001
+2017,Abu Dhabi,Residential,GWH,12998.10054
+2017,Abu Dhabi,Commercial,GWH,18400.72491
+2017,Abu Dhabi,Industrial,GWH,2903.189454
+2017,Abu Dhabi,Governmental,GWH,3360.570974
+2017,Abu Dhabi,Other,GWH,12442.38284
+2017,Abu Dhabi,Total,GWH,50104.96872
+2017,Dubai,Residential,GWH,12795
+2017,Dubai,Commercial,GWH,20818
+2017,Dubai,Industrial,GWH,2914
+2017,Dubai,Governmental,GWH,3404.783712
+2017,Dubai,Other,GWH,221.2162883
+2017,Dubai,Total,GWH,40153
+2017,Northen Emirates,Residential,GWH,5311.2
 2017,Northen Emirates,Commercial,GWH,2390.04
 2017,Northen Emirates,Industrial,GWH,2921.16
 2017,Northen Emirates,Governmental,GWH,1460.58
-2017,Northen Emirates,Other,GWH,1195.0199999999995
-2017,Northen Emirates,Total,GWH,13278.0
-2017,Sharjah,Resdencial,GWH,4630.89
+2017,Northen Emirates,Other,GWH,1195.02
+2017,Northen Emirates,Total,GWH,13278
+2017,Sharjah,Residential,GWH,4630.89
 2017,Sharjah,Commercial,GWH,3847.92
 2017,Sharjah,Industrial,GWH,1272.42
 2017,Sharjah,Governmental,GWH,1180.75
 2017,Sharjah,Other,GWH,17.25
 2017,Sharjah,Total,GWH,10949.23
-2018,Abu Dhabi,Resdencial,GWH,13498.406518262409
-2018,Abu Dhabi,Commercial,GWH,18874.357664811512
-2018,Abu Dhabi,Industrial,GWH,3313.5840609180127
-2018,Abu Dhabi,Governmental,GWH,3186.9669866837603
-2018,Abu Dhabi,Other,GWH,12239.304958196004
-2018,Abu Dhabi,Total,GWH,51112.6201888717
-2018,Dubai,Resdencial,GWH,13023.0
-2018,Dubai,Commercial,GWH,21333.0
-2018,Dubai,Industrial,GWH,2871.0
-2018,Dubai,Governmental,GWH,3429.197494474894
-2018,Dubai,Other,GWH,222.80250552510597
-2018,Dubai,Total,GWH,40879.0
-2018,Northen Emirates,Resdencial,GWH,5271.37366679996
-2018,Northen Emirates,Commercial,GWH,2372.118150059982
-2018,Northen Emirates,Industrial,GWH,2899.255516739978
-2018,Northen Emirates,Governmental,GWH,1449.627758369989
-2018,Northen Emirates,Other,GWH,1186.0590750299907
-2018,Northen Emirates,Total,GWH,13178.4341669999
-2018,Sharjah,Resdencial,GWH,4582.18
+2018,Abu Dhabi,Residential,GWH,13498.40652
+2018,Abu Dhabi,Commercial,GWH,18874.35766
+2018,Abu Dhabi,Industrial,GWH,3313.584061
+2018,Abu Dhabi,Governmental,GWH,3186.966987
+2018,Abu Dhabi,Other,GWH,12239.30496
+2018,Abu Dhabi,Total,GWH,51112.62019
+2018,Dubai,Residential,GWH,13023
+2018,Dubai,Commercial,GWH,21333
+2018,Dubai,Industrial,GWH,2871
+2018,Dubai,Governmental,GWH,3429.197494
+2018,Dubai,Other,GWH,222.8025055
+2018,Dubai,Total,GWH,40879
+2018,Northen Emirates,Residential,GWH,5271.373667
+2018,Northen Emirates,Commercial,GWH,2372.11815
+2018,Northen Emirates,Industrial,GWH,2899.255517
+2018,Northen Emirates,Governmental,GWH,1449.627758
+2018,Northen Emirates,Other,GWH,1186.059075
+2018,Northen Emirates,Total,GWH,13178.43417
+2018,Sharjah,Residential,GWH,4582.18
 2018,Sharjah,Commercial,GWH,3921.42
 2018,Sharjah,Industrial,GWH,1415.47
 2018,Sharjah,Governmental,GWH,1275.39
