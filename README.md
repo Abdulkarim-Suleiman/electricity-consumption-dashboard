@@ -47,7 +47,7 @@ streamlit run app.py
 
 ### Or View Online
 
-[🔗 View on Hugging Face Spaces](https://huggingface.co/spaces/abdulkarim-suleiman/abu-dhabi-energy-analytics)
+[🔗 View on Hugging Face Spaces](https://huggingface.co/spaces/Abdulkarim-Suleiman/electricity-consumption-dashboard)
 
 ---
 
