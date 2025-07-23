@@ -21,7 +21,7 @@ sector_filter = st.sidebar.multiselect("Select Sector(s):", options=df["Sector"]
 filtered_df = df[df["year"].isin(year_filter) & df["Area"].isin(area_filter) & df["Sector"].isin(sector_filter)]
 
 # Title
-st.title("⚡ Electricity Consumption Dashboard: Abu Dhabi (2012–2018)")
+st.title("⚡ Electricity Consumption Dashboard: UAE (2012–2018)")
 st.markdown("Explore consumption by **sector**, **area**, and **year**. Built with Streamlit and Plotly.")
 
 # KPIs
